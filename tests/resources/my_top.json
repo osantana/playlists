@@ -1,0 +1,401 @@
+[
+  {
+    "tracks" : [
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824749878",
+        "album" : "n\/a",
+        "track" : "The Real Thing",
+        "artist" : "2 Unlimited"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824749417",
+        "album" : "n\/a",
+        "track" : "Das Modell",
+        "artist" : "Rammstein"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824747186",
+        "album" : "n\/a",
+        "track" : "Session 2 (feat. KRS-One)",
+        "artist" : "The Prodigy & Tim Dog"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824747196",
+        "album" : "n\/a",
+        "track" : "Firestarter",
+        "artist" : "The Prodigy"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824747195",
+        "album" : "n\/a",
+        "track" : "Breathe",
+        "artist" : "The Prodigy"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824747194",
+        "album" : "n\/a",
+        "track" : "Smack My Bitch Up",
+        "artist" : "The Prodigy"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824747148",
+        "album" : "n\/a",
+        "track" : "Spitfire",
+        "artist" : "The Prodigy"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824747411",
+        "album" : "n\/a",
+        "track" : "I Do",
+        "artist" : "Placebo"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824747410",
+        "album" : "n\/a",
+        "track" : "This Picture",
+        "artist" : "Placebo"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824747407",
+        "album" : "n\/a",
+        "track" : "Black-Eyed",
+        "artist" : "Placebo"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824747359",
+        "album" : "n\/a",
+        "track" : "My Sweet Prince",
+        "artist" : "Placebo"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824747393",
+        "album" : "n\/a",
+        "track" : "Daddy Cool (Boney M)",
+        "artist" : "Placebo"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824747388",
+        "album" : "n\/a",
+        "track" : "Running Up That Hill (Kate Bush)",
+        "artist" : "Placebo"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824747349",
+        "album" : "n\/a",
+        "track" : "H.K Farewell",
+        "artist" : "Placebo"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824747426",
+        "album" : "n\/a",
+        "track" : "Song to Say Goodbye",
+        "artist" : "Placebo"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824747373",
+        "album" : "n\/a",
+        "track" : "Peeping Tom",
+        "artist" : "Placebo"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824747366",
+        "album" : "n\/a",
+        "track" : "Black-Eyed",
+        "artist" : "Placebo"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824748295",
+        "album" : "n\/a",
+        "track" : "Minha Alma",
+        "artist" : "O Rappa"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824748293",
+        "album" : "n\/a",
+        "track" : "O Que Sobrou Do Céu",
+        "artist" : "O Rappa"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824748291",
+        "album" : "n\/a",
+        "track" : "Me Deixa",
+        "artist" : "O Rappa"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824749906",
+        "album" : "n\/a",
+        "track" : "Brainchild",
+        "artist" : "Nostrum"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824748249",
+        "album" : "n\/a",
+        "track" : "Guitar Flute And String",
+        "artist" : "Moby"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824748247",
+        "album" : "n\/a",
+        "track" : "Everloving",
+        "artist" : "Moby"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824747081",
+        "album" : "n\/a",
+        "track" : "Reach me",
+        "artist" : "Lexicon 4"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824748161",
+        "album" : "n\/a",
+        "track" : "Liberty!",
+        "artist" : "Kon Kan"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824748279",
+        "album" : "n\/a",
+        "track" : "Harry Houdini",
+        "artist" : "Kon Kan"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824750138",
+        "album" : "n\/a",
+        "track" : "3 A.M. Eternal (Live at the S.S.L.)",
+        "artist" : "The KLF"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824748265",
+        "album" : "n\/a",
+        "track" : "What Time Is Love? [Live At Transcentral Mix]",
+        "artist" : "The KLF"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824748551",
+        "album" : "n\/a",
+        "track" : "That's What I Like",
+        "artist" : "Jive Bunny and the Mastermixers"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824748546",
+        "album" : "n\/a",
+        "track" : "Swing the Mood",
+        "artist" : "Jive Bunny and the Mastermixers"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824748547",
+        "album" : "n\/a",
+        "track" : "Rock and Roll Party Mix",
+        "artist" : "Jive Bunny and the Mastermixers"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824749560",
+        "album" : "n\/a",
+        "track" : "Before",
+        "artist" : "Infected Mushroom"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824749557",
+        "album" : "n\/a",
+        "track" : "In Front Of Me",
+        "artist" : "Infected Mushroom"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824748533",
+        "album" : "n\/a",
+        "track" : "Tunnel Of Love",
+        "artist" : "Dire Straits"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824748264",
+        "album" : "n\/a",
+        "track" : "Enjoy The Silence [Single Mix]",
+        "artist" : "Depeche Mode"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824747604",
+        "album" : "n\/a",
+        "track" : "Around The World",
+        "artist" : "Daft Punk"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824747647",
+        "album" : "n\/a",
+        "track" : "Veridis Quo",
+        "artist" : "Daft Punk"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824747645",
+        "album" : "n\/a",
+        "track" : "Something About Us",
+        "artist" : "Daft Punk"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824747807",
+        "album" : "n\/a",
+        "track" : "Superheroes, Human After All, Rock'n Roll",
+        "artist" : "Daft Punk"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824747806",
+        "album" : "n\/a",
+        "track" : "Da Funk, Daftendirekt",
+        "artist" : "Daft Punk"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824747805",
+        "album" : "n\/a",
+        "track" : "Prime Time Of Your Life, Brainwasher, Rollin' And Scratchin', Alive",
+        "artist" : "Daft Punk"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824750149",
+        "album" : "n\/a",
+        "track" : "Ohm Sweet Ohm",
+        "artist" : "Borghesia"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824748741",
+        "album" : "n\/a",
+        "track" : "The Air You Breathe",
+        "artist" : "Bomb the Bass"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824749426",
+        "album" : "n\/a",
+        "track" : "Kabalah",
+        "artist" : "Astral Projection"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824749460",
+        "album" : "n\/a",
+        "track" : "Trance Dance",
+        "artist" : "Astral Projection"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824749642",
+        "album" : "n\/a",
+        "track" : "Brutal-8-E",
+        "artist" : "Altern 8"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824748319",
+        "album" : "n\/a",
+        "track" : "Stripped",
+        "artist" : "Rammstein"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824747424",
+        "album" : "n\/a",
+        "track" : "One Of A Kind",
+        "artist" : "Placebo"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824747420",
+        "album" : "n\/a",
+        "track" : "Because I Want You",
+        "artist" : "Placebo"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "2339016235025815206",
+        "album" : "n\/a",
+        "track" : "Aurora",
+        "artist" : "Paul van Dyk & Steve Dekay"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824748070",
+        "album" : "n\/a",
+        "track" : "Unchain My Heart (90's Version)",
+        "artist" : "Joe Cocker"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "5611412234590988533",
+        "album" : "n\/a",
+        "track" : "Absolute Beginners (Single Version)",
+        "artist" : "David Bowie"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824748519",
+        "album" : "n\/a",
+        "track" : "Voices",
+        "artist" : "Dario Gand"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824746521",
+        "album" : "n\/a",
+        "track" : "Outro",
+        "artist" : "Cosmic Baby"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824750181",
+        "album" : "n\/a",
+        "track" : "Bug Powder Dust",
+        "artist" : "Bomb the Bass"
+      },
+      {
+        "service" : "applemusic",
+        "serviceId" : "4852461458824747033",
+        "album" : "n\/a",
+        "track" : "1998 (Paul van Dyk Remix)",
+        "artist" : "Binary Finary"
+      }
+    ],
+    "serviceId" : "12774518074754895229",
+    "name" : "My Top Rated",
+    "service" : "applemusic"
+  }
+]

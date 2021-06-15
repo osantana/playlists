@@ -1,0 +1,12 @@
+[tool.poetry]
+name = "playlists"
+version = "0.1.0"
+description = "CLI utility and library to manage Apple Music/iTunes playlists"
+authors = ["Osvaldo Santana Neto <playlists@osantana.me>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+click = "^8.0.1"
+
+[tool.poetry.dev-dependencies]
+pytest = "*"
