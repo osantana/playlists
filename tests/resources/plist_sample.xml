@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2021-06-15T11:27:09Z</date>
+	<key>Application Version</key><string>1.1.5.74</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/osantana/Music/Music/Media.localized/</string>
+	<key>Library Persistent ID</key><string>B278FBEEE9C33566</string>
+	<key>Tracks</key>
+	<dict>
+		<key>17469</key>
+		<dict>
+			<key>Track ID</key><integer>17469</integer>
+			<key>Name</key><string>Beat Dis (7" US Mix)</string>
+			<key>Artist</key><string>Bomb the Bass</string>
+			<key>Album Artist</key><string>Bomb the Bass</string>
+			<key>Composer</key><string>Pasquez &#38; Tim Simenon</string>
+			<key>Album</key><string>Into the Dragon</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>7972526</integer>
+			<key>Total Time</key><integer>223013</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1988</integer>
+			<key>Date Modified</key><date>2012-08-13T22:11:11Z</date>
+			<key>Date Added</key><date>2012-08-13T22:11:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>36</integer>
+			<key>Skip Count</key><integer>13</integer>
+			<key>Release Date</key><date>1988-10-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Into the Dragon</string>
+			<key>Sort Artist</key><string>Bomb the Bass</string>
+			<key>Sort Name</key><string>Beat Dis (7" US Mix)</string>
+			<key>Persistent ID</key><string>710B4F203070189F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>17498</key>
+		<dict>
+			<key>Track ID</key><integer>17498</integer>
+			<key>Name</key><string>Megablast (Hip Hop On Precinct 13) [7" Mix]</string>
+			<key>Artist</key><string>Bomb the Bass</string>
+			<key>Album Artist</key><string>Bomb the Bass</string>
+			<key>Composer</key><string>Tim Simenon</string>
+			<key>Album</key><string>Into the Dragon</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8329735</integer>
+			<key>Total Time</key><integer>234907</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1988</integer>
+			<key>Date Modified</key><date>2012-08-13T22:11:11Z</date>
+			<key>Date Added</key><date>2012-08-13T22:11:11Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>68</integer>
+			<key>Skip Count</key><integer>19</integer>
+			<key>Release Date</key><date>1988-10-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Into the Dragon</string>
+			<key>Sort Artist</key><string>Bomb the Bass</string>
+			<key>Sort Name</key><string>Megablast (Hip Hop On Precinct 13) [7" Mix]</string>
+			<key>Persistent ID</key><string>4A9E9B72023E2951</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>18739</key>
+		<dict>
+			<key>Track ID</key><integer>18739</integer>
+			<key>Name</key><string>Harry Houdini</string>
+			<key>Artist</key><string>Kon Kan</string>
+			<key>Album</key><string>Flash House 4</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>14336676</integer>
+			<key>Total Time</key><integer>334720</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2012-02-04T17:52:14Z</date>
+			<key>Date Added</key><date>2012-02-04T17:51:52Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Play Count</key><integer>60</integer>
+			<key>Play Date</key><integer>3702664259</integer>
+			<key>Play Date UTC</key><date>2021-05-01T00:50:59Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>2963</integer>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>892EB5DCF14779D2</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>18785</key>
+		<dict>
+			<key>Track ID</key><integer>18785</integer>
+			<key>Name</key><string>Smalltown Boy</string>
+			<key>Artist</key><string>Bronski Beat</string>
+			<key>Album</key><string>80's Night Ultimate DJ Collection</string>
+			<key>Genre</key><string>80s</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10397674</integer>
+			<key>Total Time</key><integer>304457</integer>
+			<key>Disc Number</key><integer>3</integer>
+			<key>Disc Count</key><integer>16</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Date Modified</key><date>2012-04-10T04:11:52Z</date>
+			<key>Date Added</key><date>2012-04-10T03:39:39Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3690136274</integer>
+			<key>Play Date UTC</key><date>2020-12-07T00:51:14Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Rating</key><integer>60</integer>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>491E26302DA17D70</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>18831</key>
+		<dict>
+			<key>Track ID</key><integer>18831</integer>
+			<key>Name</key><string>You Spind Me Round</string>
+			<key>Artist</key><string>Dead or Alive</string>
+			<key>Album</key><string>80's Night Ultimate DJ Collection</string>
+			<key>Genre</key><string>80s</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7034023</integer>
+			<key>Total Time</key><integer>200646</integer>
+			<key>Disc Number</key><integer>4</integer>
+			<key>Disc Count</key><integer>16</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>19</integer>
+			<key>Date Modified</key><date>2012-04-10T04:11:31Z</date>
+			<key>Date Added</key><date>2012-04-10T03:40:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3699512972</integer>
+			<key>Play Date UTC</key><date>2021-03-25T13:29:32Z</date>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>E6253881E0ACC894</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Sample Playlist</string>
+			<key>Description</key><string>Description of the Sample Playlist</string>
+			<key>Playlist ID</key><integer>21552</integer>
+			<key>Playlist Persistent ID</key><string>BFC00D1B1B9B1A35</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>17498</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17469</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18739</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18831</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18785</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

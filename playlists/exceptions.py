@@ -1,0 +1,2 @@
+class InvalidPlaylistFile(Exception):
+    pass
