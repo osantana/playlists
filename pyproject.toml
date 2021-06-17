@@ -10,3 +10,11 @@ click = "^8.0.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "*"
+coverage = "^5.5"
+pytest-cov = "^2.12.1"
+
+[tool.poetry.scripts]
+playlists = 'playlists.console:run'
+
+[tool.pytest.ini_options]
+addopts = "-vv --cov=playlists"

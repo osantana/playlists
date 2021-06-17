@@ -9,10 +9,6 @@ class Storage:
     def __init__(self, filename):
         self.filename = filename
 
-    def save(self, playlists):
-        with open(self.filename, 'wb') as jsonfile:
-            jsonfile.write(self.serialize(playlists).encode('ascii'))
-
 
 class PropertyListStorage(Storage):
     def load(self):
@@ -77,3 +73,7 @@ class JSONStorage(Storage):
     # noinspection PyMethodMayBeStatic
     def serialize(self, playlists):
         return json.dumps(self._to_data(playlists))
+
+    def save(self, playlists):
+        with open(self.filename, 'wb') as jsonfile:
+            jsonfile.write(self.serialize(playlists).encode('ascii'))
