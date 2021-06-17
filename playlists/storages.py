@@ -61,6 +61,7 @@ class JSONStorage(Storage):
                     'album': track.album,
                     'track': track.name,
                     'artist': track.artist,
+                    'service': track.service,
                 })
 
             playlists_data.append({

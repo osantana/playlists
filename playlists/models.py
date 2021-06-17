@@ -1,8 +1,9 @@
 class Track:
-    def __init__(self, name, artist, album):
+    def __init__(self, name, artist, album, service='applemusic'):
         self.name = name
         self.artist = artist
         self.album = album
+        self.service = service
 
 
 class Playlist:
