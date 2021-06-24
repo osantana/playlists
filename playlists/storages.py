@@ -1,6 +1,7 @@
 import json
 import plistlib
 
+from .clients import AppleMusicClient
 from .exceptions import InvalidPlaylistFile
 from .models import Playlist, Track
 
@@ -78,3 +79,16 @@ class JSONStorage(Storage):
     def save(self, playlists):
         with open(self.filename, 'wb') as jsonfile:
             jsonfile.write(self.serialize(playlists).encode('ascii'))
+
+
+class AppleMusicStorage:
+    def __init__(self, key_id, key_file, client=None):
+        self.key_id = key_id
+        self.key_file = key_file
+
+        if client is None:
+            client = AppleMusicClient(self.key_id, self.key_file)
+        self.client = client
+
+    def save(self, playlists):
+        pass
