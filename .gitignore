@@ -1,2 +1,4 @@
 .coverage
 .pytest_cache
+*.p8
+.env
